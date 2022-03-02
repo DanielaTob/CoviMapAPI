@@ -39,7 +39,4 @@ https://danielatobar.atlassian.net/jira/software/projects/IC1EEM/boards/3/roadma
 * **Christian Lazo** - *Desarrollador - Scrum master* - [CL](https://github.com/christianlazo2020)
 * **Daniela Tobar Moreno** - *Desarrolladora - Product Owner* - [DTM](https://github.com/DanielaTob)
 
-## Expresiones de Gratitud 🎁
 
-* Formadores Educamás.
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
