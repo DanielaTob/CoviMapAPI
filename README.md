@@ -39,8 +39,8 @@ https://danielatobar.atlassian.net/jira/software/projects/IC1EEM/boards/3/roadma
 
 ## Developers ✒️
 
-* **L. Miguel Cuello Mesa** - *Desarrollador - Product Owner* - [MC](https://github.com/migcm06)
-* **Christian Lazo** - *Desarrollador - Scrum master* - [CL](https://github.com/christianlazo2020)
-* **Daniela Tobar Moreno** - *Desarrolladora - Product Owner* - [DTM](https://github.com/DanielaTob)
+* **L. Miguel Cuello Mesa** - *Developer - Product Owner* - [MC](https://github.com/migcm06)
+* **Christian Lazo** - *Developer - Scrum master* - [CL](https://github.com/christianlazo2020)
+* **Daniela Tobar Moreno** - *Developer - Product Owner* - [DTM](https://github.com/DanielaTob)
 
 
