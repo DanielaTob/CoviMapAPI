@@ -1,39 +1,37 @@
 # [![coronavirus.png](https://i.postimg.cc/7L3k0Chj/coronavirus.png)](https://postimg.cc/Ty3FX3rc) COVIMAP 
 
-El Covid-19 es una realidad que afrontamos en este siglo, y a pesar de ser tan malo, gracias a la tecnología podemos luchar contra él creando estrategias, medidas de contención basándonos en datos que podemos recoger y mantener informado a cualquier usuario de la situación en cada país.
+Covid-19 is a reality that we face in this century, and despite being so bad, thanks to technology we can fight it by creating strategies, containment measures based on data that we can collect and keep any user informed of the situation in each country.
 
 [![smartmockups-kzd3bovv-removebg-preview.png](https://i.postimg.cc/x17TWg0F/smartmockups-kzd3bovv-removebg-preview.png)](https://postimg.cc/0zYsSYKp)
 
-## Comenzando 🚀
-Desarrollamos una página web en la que los usuarios pueden consultar diversa información acerca de los datos referentes a la pandemía ocasionada por el COVID-19.
+## Beginning  🚀
+We developed a web page where users can consult various information about the data concerning the pandemic caused by COVID-19.
 
-## Mira Deployment para conocer como desplegar el proyecto 💻
+## Deploy 💻
 
 https://quirky-engelbart-595483.netlify.app/
 
-## Pre-requisitos 📋
-No se necesita ningun programa o elemento externo. Con solo visitar el link del proyecto puedes acceder a toda la información. 
 
 ## Product Backlog 📎
 
 https://danielatobar.atlassian.net/jira/software/projects/IC1EEM/boards/3/roadmap?shared=&atlOrigin=eyJpIjoiMGI4YmQxNGUyNGFiNGFiYmIyYzdmNjNmZjM2ZmNkMzYiLCJwIjoiaiJ9
 
-## Despliegue 📦
+## Deployment instructions  📦
 
-- Para realizar el deploy el usuario debe acceder desde el link previamente proporcionado. Hecho esto, se abrirá una ventana donde se podrá ver la Web App. 
-- Para poder acceder a los datos en tiempo real, el usuario debe dirigirse al botón llamado "Tracker". 
+- To deploy the user must access from the link previously provided. Once this is done, a window will open where the Web App can be viewed. 
+- In order to access the data in real time, the user must click on the "Tracker" button. 
 
 [![Sin-t-tulo-removebg-preview.png](https://i.postimg.cc/BbvSsxs2/Sin-t-tulo-removebg-preview.png)](https://postimg.cc/qh9Vx6N7)
 
-## Construido con 🛠️
+## Built with 🛠️
 
-* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Libreria web usada. 
-* [Disiase.sh](https://corona.lmao.ninja/) - API utilizada para la recolección de datos.
-* [Sass](https://sass-lang.com/) - Preprocesador. 
-* [Html]() - Maquetación.
-* [JavaScript]() - Interactividad.
+* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Used web library. 
+* [Disiase.sh](https://corona.lmao.ninja/) - API used for data collection.
+* [Sass](https://sass-lang.com/) - Preprocessor. 
+* [Html]() - Layout.
+* [JavaScript]() - Interactivity.
 
-## Autores ✒️
+## Developers ✒️
 
 * **L. Miguel Cuello Mesa** - *Desarrollador - Product Owner* - [MC](https://github.com/migcm06)
 * **Christian Lazo** - *Desarrollador - Scrum master* - [CL](https://github.com/christianlazo2020)
