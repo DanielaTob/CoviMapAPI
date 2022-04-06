@@ -25,11 +25,17 @@ https://danielatobar.atlassian.net/jira/software/projects/IC1EEM/boards/3/roadma
 
 ## Built with 🛠️
 
-* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Used web library. 
+<img  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
+
+<img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+
 * [Disiase.sh](https://corona.lmao.ninja/) - API used for data collection.
-* [Sass](https://sass-lang.com/) - Preprocessor. 
-* [Html]() - Layout.
-* [JavaScript]() - Interactivity.
+
+
 
 ## Developers ✒️
 
