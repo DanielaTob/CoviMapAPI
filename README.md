@@ -45,4 +45,3 @@ https://danielatobar.atlassian.net/jira/software/projects/IC1EEM/boards/3/roadma
 
 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
