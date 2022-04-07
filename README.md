@@ -44,3 +44,5 @@ https://danielatobar.atlassian.net/jira/software/projects/IC1EEM/boards/3/roadma
 * **Daniela Tobar Moreno** - *Developer - Product Owner* - [DTM](https://github.com/DanielaTob)
 
 
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
